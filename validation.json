@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-11 21:01:19",
+  "ok": true,
+  "symbols": 4251,
+  "with_pattern": 3960,
+  "unique": 3960,
+  "ambiguous": 0,
+  "stale": 0,
+  "anchor_moved": 0,
+  "rva_out_of_image": 0,
+  "modules": {
+    "client.dll": {"symbols": 1192, "with_pattern": 1161, "unique": 1161, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "engine.dll": {"symbols": 595, "with_pattern": 571, "unique": 571, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "tier0.dll": {"symbols": 504, "with_pattern": 481, "unique": 481, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "vstdlib.dll": {"symbols": 103, "with_pattern": 95, "unique": 95, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "materialsystem.dll": {"symbols": 193, "with_pattern": 173, "unique": 173, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "studiorender.dll": {"symbols": 33, "with_pattern": 29, "unique": 29, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "vphysics.dll": {"symbols": 100, "with_pattern": 96, "unique": 96, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "vguimatsurface.dll": {"symbols": 115, "with_pattern": 111, "unique": 111, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "vgui2.dll": {"symbols": 68, "with_pattern": 53, "unique": 53, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "inputsystem.dll": {"symbols": 30, "with_pattern": 26, "unique": 26, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "lua_shared.dll": {"symbols": 187, "with_pattern": 184, "unique": 184, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "server.dll": {"symbols": 1095, "with_pattern": 949, "unique": 949, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0},
+    "datacache.dll": {"symbols": 36, "with_pattern": 31, "unique": 31, "ambiguous": 0, "stale": 0, "anchor_moved": 0, "rva_out_of_image": 0}
+  }
+}
